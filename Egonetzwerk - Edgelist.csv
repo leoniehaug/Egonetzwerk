@@ -1,0 +1,15 @@
+from,to,weight,relation
+mg,cd,1,"1,5"
+mg,bt,1,"3,6"
+mg,bg,1,2
+mg,ms,2,"4,6"
+ms,cd,3,NA
+ms,bt,3,NA
+ms,bg,3,NA
+bg,ms,3,NA
+bt,ms,3,NA
+cd,ms,3,NA
+bg,cd,1,NA
+cd,bg,1,NA
+bt,bg,1,NA
+bg,bt,1,NA
